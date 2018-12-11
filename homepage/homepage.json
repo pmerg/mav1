@@ -50,6 +50,10 @@
 				{
 					"cardTitle": "Style lists",
 					"cardDescript": "As a user I want to have horizontal lists."
+				},
+				{
+					"cardTitle": "Loading...",
+					"cardDescript": "Loading..."
 				}
 			]
 		}
